@@ -1,4 +1,4 @@
-# Sales-Report-Using-Power-BI
+# Sales-Report-Using-Power-BI -(NIRBHAY)
 This project features a Power BI report designed to provide insightful visualizations of sales data. The report includes various metrics such as total sales, sales by region, product performance, and more. 
 # Sales Trends Analysis Dashboard
 
